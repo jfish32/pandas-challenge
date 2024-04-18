@@ -7,3 +7,5 @@ CONCLUSIONS:
 1) My first conclusion is that Charter schools greatly outperformed District schools, something to consider if you have kids and can choose between a Charter or District school.
 
 2) My second conclusion is one that goes against what I would have assumed.  The schools with the lowest spending ranges per student greatly outperformed those schools that spent more per student.  I would have assumed the opposite as usually more spending = more opportunity.  As a bonus you definitely want your kids in smaller schools based on this dataset as smaller school size equated to a much higher passing rate, large schools did not perform well.
+
+You can find my complete notebook used for analysis in the PyCitySchools folder and it is called Complete_notebook.ipynb
